@@ -87,8 +87,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-
+        
         Log.d("Campo", "email"+correo);
         Log.d("Campo", "password"+contra);
     }
