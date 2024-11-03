@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959584401864",
+    "project_id": "campoavesapp-a069c",
+    "storage_bucket": "campoavesapp-a069c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959584401864:android:ecc00c35262b00048428fd",
+        "android_client_info": {
+          "package_name": "com.example.campoaves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959584401864-mhrk8q0fidqr30jcllbcamol10bofo0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campoaves",
+            "certificate_hash": "38b45668aef49bea2709bc89b2cebf505959f421"
+          }
+        },
+        {
+          "client_id": "959584401864-rs5161djpkum19clemg0t87n1kv4airj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiW15ajN09z48otsVcstTc8xy2GxV1vdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959584401864-rs5161djpkum19clemg0t87n1kv4airj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
